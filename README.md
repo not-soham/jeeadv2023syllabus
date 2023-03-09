@@ -4,8 +4,8 @@ For official syllabus refer [this](https://jeeadv.ac.in/documents/jee-advanced-2
 
 
 
-[Physics](https://github.com/not-soham/jeeadv2023syllabus/edit/main/README.md#physics) | Mathematics | Chemistry
-| :---: | :---: | :---: |
+| [Physics](https://github.com/not-soham/jeeadv2023syllabus/edit/main/README.md#physics) | Mathematics | Chemistry |
+|-|-|-|
 
 
 ### Physics
