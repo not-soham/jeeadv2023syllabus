@@ -50,7 +50,7 @@ its applications (only for ideal gases); Second law of thermodynamics, reversibl
 processes, Carnot engine and its efficiency; Blackbody radiation: absorptive and emissive powers; 
 Kirchhoff’s law; Wien’s displacement law, Stefan’s law.
 
-### Electricity and Magnestism
+### Electricity and Magnetism
 >Coulomb’s law; Electric field and potential; Electrical potential energy of a system of point 
 charges and of electrical dipoles in a uniform electrostatic field; Electric field lines; Flux of electric 
 field; Gauss’s law and its application in simple cases, such as, to find field due to infinitely long 
