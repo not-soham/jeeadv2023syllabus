@@ -1,1 +1,0 @@
-gem 'jekyll-target-blank'
