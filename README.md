@@ -189,6 +189,36 @@ trichloride, phosphorus pentachloride; oxides of nitrogen and oxoacids of phosph
 > - Group 16: Reactivity towards hydrogen, oxygen, and halogen; simple oxides; allotropes of sulfur;
 preparation/manufacture, properties, and uses of dioxygen, ozone, sulfur dioxide, sulfuric acid;
 oxoacids of sulfur. 
+> - Group 17: Reactivity towards hydrogen, oxygen, and metals; preparation/manufacture, properties,
+and uses of chlorine, hydrogen chloride and interhalogen compounds; oxoacids of halogens,
+bleaching powder. 
+> - Group 18: Chemical properties and uses; compounds of xenon with fluorine and oxygen. 
+
+### d-Block Elements
+>Oxidation states and their stability; standard electrode potentials; interstitial compounds; alloys;
+catalytic properties; applications; preparation, structure, and reactions of oxoanions of chromium
+and manganese.
+
+### f-Block Elements
+>Lanthanoid and actinoid contractions; oxidation states; general characteristics.
+
+### Coordination Compounds
+>Werner’s theory; Nomenclature, *cis-trans* and ionization isomerism, hybridization and geometries
+(linear, tetrahedral, square planar and octahedral) of mononuclear coordination compounds;
+Bonding [VBT and CFT (octahedral and tetrahedral fields)]; Magnetic properties (spin-only) and
+colour of 3*d-series* coordination compounds; Ligands and spectrochemical series; Stability;
+Importance and applications; Metal carbonyls. 
+
+### Isolation of Metals 
+>Metal ores and their concentration; extraction of crude metal from concentrated ores:
+thermodynamic (iron, copper, zinc) and electrochemical (aluminium) principles of metallurgy;
+cyanide process (silver and gold); refining. 
+
+### Principles of Qualitative Analysis
+>Groups I to V (only Ag+ , Hg2+, Cu2+, Pb2+, Fe3+, Cr3+, Al3+, Ca2+, Ba2+, Zn2+, Mn2+ and Mg2+);
+Nitrate, halides (excluding fluoride), carbonate and bicarbonate, sulphate and sulphide. 
+
+
 
 
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
