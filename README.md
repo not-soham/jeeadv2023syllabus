@@ -215,7 +215,7 @@ thermodynamic (iron, copper, zinc) and electrochemical (aluminium) principles of
 cyanide process (silver and gold); refining. 
 
 ### Principles of Qualitative Analysis
->Groups I to V (only Ag+ , Hg2+, Cu2+, Pb2+, Fe3+, Cr3+, Al3+, Ca2+, Ba2+, Zn2+, Mn2+ and Mg2+);
+>Groups I to V (only Ag<sup>+</sup> , Hg<sup>2+</sup>, Cu<sup>2+</sup>, Pb<sup>2+</sup>, Fe<sup>3+</sup>, Cr<sup>3+</sup>, Al<sup>3+</sup>, Ca<sup>2+</sup>, Ba<sup>2+</sup>, Zn<sup>2+</sup>, Mn<sup>2+</sup> and Mg<sup>2+</sup>);
 Nitrate, halides (excluding fluoride), carbonate and bicarbonate, sulphate and sulphide. 
 
 
