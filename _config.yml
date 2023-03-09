@@ -3,6 +3,3 @@ title: null
 
 kramdown:
     footnote_backlink: ""
-
-plugins:
-  - jekyll-target-blank
