@@ -439,8 +439,6 @@ products, and their geometrical interpretations.
 ---
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#77C3EC', 'primaryBorderColor': ''}}}%%
-
 pie title Syllabus Completion
     "Expected" : 100
     "Is" : 1
