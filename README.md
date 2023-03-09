@@ -12,7 +12,7 @@ For official syllabus refer [this](https://jeeadv.ac.in/documents/jee-advanced-2
 
 ---
 
-### Physics
+## Physics
 
 
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
