@@ -1,2 +1,4 @@
 name: JEE Advanced 2023 Syllabus
 title: null
+kramdown:
+  footnote_backlink: '&#8617;&#65038;'
