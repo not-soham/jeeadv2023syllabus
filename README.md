@@ -1,5 +1,5 @@
 # JEE (Advanced) 2023[^1] Syllabus
-For official syllabus[^2] refer [this](https://jeeadv.ac.in/documents/jee-advanced-2023-syllabus.pdf){:target="_blank"}. This page just aims to make the syllabus more readable.
+For official syllabus[^2] refer [this](https://jeeadv.ac.in/documents/jee-advanced-2023-syllabus.pdf){:target="_blank"}. This page just aims to make the syllabus more readable, hopefully, error-free.
 
 | Subject | Subtopics* |
 | ------------- | ------------- |
