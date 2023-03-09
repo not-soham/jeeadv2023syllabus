@@ -438,7 +438,6 @@ products, and their geometrical interpretations.
 ---
 
 
-# 
 
-[^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
-[^2]: Revised Syllabus to be followed from JEE (Advanced) 2023
+[^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}.
+[^2]: Revised Syllabus to be followed from JEE (Advanced) 2023.
