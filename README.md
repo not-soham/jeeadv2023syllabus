@@ -5,7 +5,7 @@ For official syllabus[^2] refer [this](https://jeeadv.ac.in/documents/jee-advanc
 | ------------- | ------------- |
 | [Physics](https://not-soham.github.io/jeeadv2023syllabus/#physics) | [General](https://not-soham.github.io/jeeadv2023syllabus/#general), [Mechanics](https://not-soham.github.io/jeeadv2023syllabus/#mechanics), [Thermal Physics](https://not-soham.github.io/jeeadv2023syllabus/#thermal-physics), [Electricity and Magnetism](https://not-soham.github.io/jeeadv2023syllabus/#electricity-and-magnetism), [Electromagnetic Waves](https://not-soham.github.io/jeeadv2023syllabus/#electromagnetic-waves), [Optics](https://not-soham.github.io/jeeadv2023syllabus/#optics), [Modern Physics](https://not-soham.github.io/jeeadv2023syllabus/#modern-physics) |
 | [Chemistry](https://not-soham.github.io/jeeadv2023syllabus/#chemistry) | `To be updated.` |
-| [Mathematics](https://not-soham.github.io/jeeadv2023syllabus/#mathematics) | `To be updated.` |
+| [Mathematics](https://not-soham.github.io/jeeadv2023syllabus/#mathematics) | Sets, Relations and Functions, Algebra, Matrices, Probability and Statistics, Trigonometry, Analytical Geometry, Differential Calculus, Integral Calculus, Vectors |
 
 <sub>* Click to jump to the desired topic.</sub>
 
