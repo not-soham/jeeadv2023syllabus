@@ -1,9 +1,9 @@
 # JEE Advanced 2023[^1] Syllabus
 For official syllabus refer [this](https://jeeadv.ac.in/documents/jee-advanced-2023-syllabus.pdf){:target="_blank"}. This page just aims to make the syllabus more readable.
 
-| Subject |
-| ------------- |
-| [Physics](https://not-soham.github.io/jeeadv2023syllabus/#physics) |
+| Subject | Subtopics|
+| ------------- | ------------- |
+| [Physics](https://not-soham.github.io/jeeadv2023syllabus/#physics) | General, Mechanics, Thermal Physics, Electricity and Magnetism, Electromagnetic Waves, Optics, Modern Physics |
 | Chemistry |
 | Mathematics |
 
@@ -87,4 +87,6 @@ these processes.
 Photoelectric effect; Bohr’s theory of hydrogen-like atoms; Characteristic and continuous X-rays, 
 Moseley’s law; de Broglie wavelength of matter waves. 
 
+
+---
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
