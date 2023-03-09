@@ -437,5 +437,15 @@ products, and their geometrical interpretations.
 
 
 ---
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#77C3EC', 'primaryBorderColor': ''}}}%%
+
+pie title Syllabus Completion
+    "Expected" : 100
+    "Is" : 1
+```
+
+
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
 [^2]: Revised Syllabus to be followed from JEE (Advanced) 2023
