@@ -4,8 +4,8 @@ For official syllabus refer [this](https://jeeadv.ac.in/documents/jee-advanced-2
 | Subject | Subtopics|
 | ------------- | ------------- |
 | [Physics](https://not-soham.github.io/jeeadv2023syllabus/#physics) | General, Mechanics, Thermal Physics, Electricity and Magnetism, Electromagnetic Waves, Optics, Modern Physics |
-| Chemistry |
-| Mathematics |
+| [Chemistry](https://not-soham.github.io/jeeadv2023syllabus/#chemistry) |
+| [Mathematics](https://not-soham.github.io/jeeadv2023syllabus/#mathematics) |
 
 ## Physics
 ### General
