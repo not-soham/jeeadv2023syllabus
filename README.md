@@ -435,6 +435,7 @@ degree, separation of variables method, linear first order differential equation
 >Addition of vectors, scalar multiplication, dot and cross products, scalar and vector triple
 products, and their geometrical interpretations. 
 
+---
 
 
 # 
