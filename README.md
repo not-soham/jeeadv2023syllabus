@@ -378,5 +378,61 @@ equations.
 >Inverse trigonometric functions (principal value only) and their elementary properties. 
 
 
+### Analytical Geometry
+>*Two dimensions*: Cartesian coordinates, distance between two points, section formulae, shift of
+origin.
 
+>Equation of a straight line in various forms, angle between two lines, distance of a point from a
+line; Lines through the point of intersection of two given lines, equation of the bisector of the
+angle between two lines, concurrency of lines; Centroid, orthocentre, incentre and circumcentre
+of a triangle. 
+
+>Equation of a circle in various forms, equations of tangent, normal and chord. Parametric
+equations of a circle, intersection of a circle with a straight line or a circle, equation of a circle
+through the points of intersection of two circles and those of a circle and a straight line. 
+
+
+>Equations of a parabola, ellipse and hyperbola in standard form, their foci, directrices and
+eccentricity, parametric equations, equations of tangent and normal.
+Locus problems. 
+
+> *Three dimensions*: Distance between two points, direction cosines and direction ratios, equation
+of a straight line in space, skew lines, shortest distance between two lines, equation of a plane,
+distance of a point from a plane, angle between two lines, angle between two planes, angle
+between a line and the plane, coplanar lines. 
+
+
+### Differential Calculus 
+>Limit of a function at a real number, continuity of a function, limit and continuity of the sum,
+difference, product and quotient of two functions, L’Hospital rule of evaluation of limits of
+functions.
+
+>Continuity of composite functions, intermediate value property of continuous functions.
+Derivative of a function, derivative of the sum, difference, product and quotient of two functions,
+chain rule, derivatives of polynomial, rational, trigonometric, inverse trigonometric, exponential
+and logarithmic functions. 
+
+>Tangents and normals, increasing and decreasing functions, derivatives of order two, maximum
+and minimum values of a function, Rolle’s theorem and Lagrange’s mean value theorem,
+geometric interpretation of the two theorems, derivatives up to order two of implicit functions,
+geometric interpretation of derivatives. 
+
+
+### Integral Calculus 
+>Integration as the inverse process of differentiation, indefinite integrals of standard functions,
+definite integrals as the limit of sums, definite integral and their properties, fundamental theorem
+of integral calculus. 
+
+>Integration by parts, integration by the methods of substitution and partial fractions, application
+of definite integrals to the determination of areas bounded by simple curves. Formation of ordinary
+differential equations, solution of homogeneous differential equations of first order and first
+degree, separation of variables method, linear first order differential equations. 
+
+
+### Vectors
+>Addition of vectors, scalar multiplication, dot and cross products, scalar and vector triple
+products, and their geometrical interpretations. 
+
+
+---
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
