@@ -1,0 +1,27 @@
+.back-to-top {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  border-radius: 20%;
+  background: #ffffff;
+  padding: 0.5rem;
+  border: none;
+  cursor: pointer;
+  opacity: 100%;
+  transition: opacity 0.5s;
+}
+
+.back-to-top-icon {
+  width: 2rem;
+  height: 2rem;
+  color: #7a7a7a;
+}
+
+
+.back-to-top:hover {
+  opacity: 60%;
+}
+
+.hidden {
+  opacity: 0%;
+}
