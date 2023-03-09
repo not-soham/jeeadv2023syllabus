@@ -2,7 +2,7 @@ name: JEE Advanced 2023 Syllabus
 title: null
 
 kramdown:
-    footnote_backlink: "⤴"
+    footnote_backlink: ""
 
 plugins:
   - jekyll-target-blank
