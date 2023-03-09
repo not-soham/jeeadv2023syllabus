@@ -39,7 +39,7 @@ drops, bubbles and capillary rise. Viscosity (Poiseuille’s equation excluded),
 and bulk modulus in mechanics. Stoke’s law; Terminal velocity, Streamline flow, equation of 
 continuity, Bernoulli’s theorem and its applications. Wave motion (plane waves only), longitudinal 
 and transverse waves, superposition of waves; Progressive and stationary waves; Vibration of 
-strings and air columns; Resonance; Beats; Speed of sound in gases; Doppler effect (in sound) 
+strings and air columns; Resonance; Beats; Speed of sound in gases; Doppler effect (in sound).
 
 ### Thermal Physics 
 >Thermal expansion of solids, liquids and gases; Calorimetry, latent heat; Heat conduction in one 
@@ -67,7 +67,7 @@ coil galvanometer, voltmeter, ammeter and their conversions.
 Electromagnetic induction: Faraday’s law, Lenz’s law; Self and mutual inductance; RC, LR, LC 
 and LCR(in series) circuits with d.c. and a.c. sources. 
 
-### Electromagtic Waves
+### Electromagnetic Waves
 >Electromagnetic waves and their characteristics. Electromagnetic spectrum (radio waves, 
 microwaves, infrared, visible, ultraviolet, x-rays, gamma rays) including elementary facts about 
 their uses.
@@ -89,4 +89,46 @@ Moseley’s law; de Broglie wavelength of matter waves.
 
 
 ---
+
+## Chemistry
+
+### General Topics
+>Concept of atoms and molecules; Dalton’s atomic theory; Mole concept; Chemical formulae;
+Balanced chemical equations; Calculations (based on mole concept and stoichiometry) involving
+common oxidation-reduction, neutralisation, and displacement reactions; Concentration in terms
+of mole fraction, molarity, molality and normality. 
+
+### States of Matter: Gases and Liquids
+>Gas laws and ideal gas equation, absolute scale of temperature; Deviation from ideality, van der
+Waals equation; Kinetic theory of gases, average, root mean square and most probable velocities
+and their relation with temperature; Law of partial pressures; Diffusion of gases. Intermolecular
+interactions: types, distance dependence, and their effect on properties; Liquids: vapour pressure,
+surface tension, viscosity. 
+
+### Atomic Structure 
+>Bohr model, spectrum of hydrogen atom; Wave-particle duality, de Broglie hypothesis;
+Uncertainty principle; Qualitative quantum mechanical picture of hydrogen atom: Energies,
+quantum numbers, wave function and probability density (plots only), shapes of s, p and d orbitals;
+Aufbau principle; Pauli’s exclusion principle and Hund’s rule.
+
+### Chemical Bonding and Molecular Structure 
+>Orbital overlap and covalent bond; Hybridisation involving s, p and d orbitals only; Molecular
+orbital energy diagrams for homonuclear diatomic species (up to Ne<sub>2</sub>); Hydrogen bond; Polarity
+in molecules, dipole moment; VSEPR model and shapes of molecules (linear, angular, triangular,
+square planar, pyramidal, square pyramidal, trigonal bipyramidal, tetrahedral and octahedral). 
+
+### Chemical Thermodynamics
+>Intensive and extensive properties, state functions, First law of thermodynamics; Internal energy,
+work (pressure-volume only) and heat; Enthalpy, heat capacity, standard state, Hess’s law;
+Enthalpy of reaction, fusion and vapourization, and lattice enthalpy; Second law of
+thermodynamics; Entropy; Gibbs energy; Criteria of equilibrium and spontaneity. 
+
+### Chemical and Ionic Equilibrium
+>Law of mass action; Significance of ΔG and ΔG<sup>㊀</sup> in chemical equilibrium; Equilibrium constant
+(Kp and Kc) and reaction quotient, Le Chatelier’s principle (effect of concentration, temperature
+and pressure); Solubility product and its applications, common ion effect, pH and buffer solutions;
+Acids and bases (Bronsted and Lewis concepts); Hydrolysis of salts. 
+
+
+
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
