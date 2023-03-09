@@ -1,11 +1,13 @@
 # JEE (Advanced) 2023[^1] Syllabus
 For official syllabus[^2] refer [this](https://jeeadv.ac.in/documents/jee-advanced-2023-syllabus.pdf){:target="_blank"}. This page just aims to make the syllabus more readable.
 
-| Subject | Subtopics|
+| Subject | Subtopics* |
 | ------------- | ------------- |
-| [Physics](https://not-soham.github.io/jeeadv2023syllabus/#physics) | General, Mechanics, Thermal Physics, Electricity and Magnetism, Electromagnetic Waves, Optics, Modern Physics |
-| [Chemistry](https://not-soham.github.io/jeeadv2023syllabus/#chemistry) |
-| [Mathematics](https://not-soham.github.io/jeeadv2023syllabus/#mathematics) |
+| [Physics](https://not-soham.github.io/jeeadv2023syllabus/#physics) | [General](https://not-soham.github.io/jeeadv2023syllabus/#general), [Mechanics](https://not-soham.github.io/jeeadv2023syllabus/#mechanics), [Thermal Physics](https://not-soham.github.io/jeeadv2023syllabus/#thermal-physics), [Electricity and Magnetism](https://not-soham.github.io/jeeadv2023syllabus/#electricity-and-magnetism), [Electromagnetic Waves](https://not-soham.github.io/jeeadv2023syllabus/#electromagnetic-waves), [Optics](https://not-soham.github.io/jeeadv2023syllabus/#optics), [Modern Physics](https://not-soham.github.io/jeeadv2023syllabus/#modern-physics) |
+| [Chemistry](https://not-soham.github.io/jeeadv2023syllabus/#chemistry) | `To be updated.` |
+| [Mathematics](https://not-soham.github.io/jeeadv2023syllabus/#mathematics) | `To be updated.` |
+
+<sub>* Click to jump to the desired topic.</sub>
 
 ## Physics
 ### General
