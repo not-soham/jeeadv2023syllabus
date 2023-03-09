@@ -218,6 +218,63 @@ cyanide process (silver and gold); refining.
 >Groups I to V (only Ag<sup>+</sup> , Hg<sup>2+</sup>, Cu<sup>2+</sup>, Pb<sup>2+</sup>, Fe<sup>3+</sup>, Cr<sup>3+</sup>, Al<sup>3+</sup>, Ca<sup>2+</sup>, Ba<sup>2+</sup>, Zn<sup>2+</sup>, Mn<sup>2+</sup> and Mg<sup>2+</sup>);
 Nitrate, halides (excluding fluoride), carbonate and bicarbonate, sulphate and sulphide. 
 
+### Environmental Chemistry 
+>Atmospheric pollution; water pollution; soil pollution; industrial waste; strategies to control
+environmental pollution; green chemistry. 
+
+### Basic Principles of Organic Chemistry 
+>Hybridisation of carbon; σ and π-bonds; Shapes of simple organic molecules; aromaticity;
+Structural and geometrical isomerism; Stereoisomers and stereochemical relationship
+(enantiomers, diastereomers, meso) of compounds containing only up to two asymmetric centres (R,S and E,Z configurations excluded); Determination of empirical and molecular formulae of simple compounds by combustion method only; IUPAC nomenclature of organic molecules
+(hydrocarbons, including simple cyclic hydrocarbons and their mono-functional and bi-functional
+derivatives only); Hydrogen bonding effects; Inductive, Resonance and Hyperconjugative effects;
+Acidity and basicity of organic compounds; Reactive intermediates produced during homolytic
+and heterolytic bond cleavage; Formation, structure and stability of carbocations, carbanions and
+free radicals.
+
+### Alkanes
+>Homologous series; Physical properties (melting points, boiling points and density) and effect of
+branching on them; Conformations of ethane and butane (Newman projections only); Preparation
+from alkyl halides and aliphatic carboxylic acids; Reactions: combustion, halogenation (including
+allylic and benzylic halogenation) and oxidation. 
+
+### Alkenes and Alkynes
+>Physical properties (boiling points, density and dipole moments); Preparation by elimination
+reactions; Acid catalysed hydration (excluding the stereochemistry of addition and elimination);
+Metal acetylides; Reactions of alkenes with KMnO4 and ozone; Reduction of alkenes and alkynes;
+Electrophilic addition reactions of alkenes with X2, HX, HOX, (X=halogen); Effect of peroxide
+on addition reactions; cyclic polymerization reaction of alkynes. 
+
+### Benzene
+>Structure; Electrophilic substitution reactions: halogenation, nitration, sulphonation, FriedelCrafts alkylation and acylation; Effect of directing groups (monosubstituted benzene) in these
+reactions. 
+
+### Phenols
+>Physical properties; Preparation, Electrophilic substitution reactions of phenol (halogenation,
+nitration, sulphonation); Reimer-Tiemann reaction, Kolbe reaction; Esterification; Etherification;
+Aspirin synthesis; Oxidation and reduction reactions of phenol.
+
+### Alkyl Halides
+>Rearrangement reactions of alkyl carbocation; Grignard reactions; Nucleophilic substitution
+reactions and their stereochemical aspects. 
+
+### Alcohols
+>Physical properties; Reactions: esterification, dehydration (formation of alkenes and ethers);
+Reactions with: sodium, phosphorus halides, ZnCl<sub>2</sub>/concentrated HCl, thionyl chloride;
+Conversion of alcohols into aldehydes, ketones and carboxylic acids. 
+
+### Ethers
+>Preparation by Williamson’s synthesis; C-O bond cleavage reactions. 
+
+### Aldehydes and Ketones
+>Preparation of: aldehydes and ketones from acid chlorides and nitriles; aldehydes from esters;
+benzaldehyde from toluene and benzene; Reactions: oxidation, reduction, oxime and hydrazone formation; Aldol condensation, Cannizzaro reaction; Haloform reaction; Nucleophilic addition
+reaction with RMgX, NaHSO3, HCN, alcohol, amine. 
+
+### Carboxylic Acids
+>Physical properties; Preparation: from nitriles, Grignard reagents, hydrolysis of esters and amides;
+Preparation of benzoic acid from alkylbenzenes; Reactions: reduction, halogenation, formation of
+esters, acid chlorides and amides. 
 
 
 
