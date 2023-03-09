@@ -124,11 +124,71 @@ Enthalpy of reaction, fusion and vapourization, and lattice enthalpy; Second law
 thermodynamics; Entropy; Gibbs energy; Criteria of equilibrium and spontaneity. 
 
 ### Chemical and Ionic Equilibrium
->Law of mass action; Significance of ΔG and ΔG<sup>㊀</sup> in chemical equilibrium; Equilibrium constant
+>Law of mass action; Significance of ΔG and ΔG<sup>○</sup> in chemical equilibrium; Equilibrium constant
 (Kp and Kc) and reaction quotient, Le Chatelier’s principle (effect of concentration, temperature
 and pressure); Solubility product and its applications, common ion effect, pH and buffer solutions;
 Acids and bases (Bronsted and Lewis concepts); Hydrolysis of salts. 
 
+### Electrochemistry
+>Electrochemical cells and cell reactions; Standard electrode potentials; Electrochemical work,
+Nernst equation; Electrochemical series, emf of galvanic cells; Faraday’s laws of electrolysis;
+Electrolytic conductance, specific, equivalent and molar conductivity, Kohlrausch’s law;
+Batteries: Primary and Secondary, fuel cells; Corrosion. 
+
+### Chemical Kinetics
+>Rates of chemical reactions; Order and molecularity of reactions; Rate law, rate constant, half-life;
+Differential and integrated rate expressions for zero and first order reactions; Temperature
+dependence of rate constant (Arrhenius equation and activation energy); Catalysis: Homogeneous
+and heterogeneous, activity and selectivity of solid catalysts, enzyme catalysis and its mechanism. 
+
+### Solid State
+>Classification of solids, crystalline state, seven crystal systems (cell parameters a, b, c, α, β, γ),
+close packed structure of solids (cubic and hexagonal), packing in fcc, bcc and hcp lattices; Nearest
+neighbours, ionic radii and radius ratio, point defects. 
+
+### Solutions 
+>Henry’s law; Raoult’s law; Ideal solutions; Colligative properties: lowering of vapour pressure,
+elevation of boiling point, depression of freezing point, and osmotic pressure; van’t Hoff factor.
+
+### Surface Chemistry
+>Elementary concepts of adsorption: Physisorption and Chemisorption, Freundlich adsorption
+isotherm; Colloids: types, methods of preparation and general properties; Elementary ideas of
+emulsions, surfactants and micelles (only definitions and examples). 
+
+### Classification of Elements and Periodicity in Properties 
+>Modern periodic law and the present form of periodic table; electronic configuration of elements;
+periodic trends in atomic radius, ionic radius, ionization enthalpy, electron gain enthalpy, valence,
+oxidation states, electronegativity, and chemical reactivity. 
+
+### Hydrogen
+>Position of hydrogen in periodic table, occurrence, isotopes, preparation, properties and uses of
+hydrogen; hydrides – ionic, covalent and interstitial; physical and chemical properties of water,
+heavy water; hydrogen peroxide-preparation, reactions, use and structure; hydrogen as a fuel. 
+
+### s-Block Elements 
+>Alkali and alkaline earth metals-reactivity towards air, water, dihydrogen, halogens, acids; their
+reducing nature including solutions in liquid ammonia; uses of these elements; general
+characteristics of their oxides, hydroxides, halides, salts of oxoacids; anomalous behaviour of
+lithium and beryllium; preparation, properties, and uses of compounds of sodium (sodium
+carbonate, sodium chloride, sodium hydroxide, sodium hydrogen carbonate) and calcium (calcium
+oxide, calcium hydroxide, calcium carbonate, calcium sulphate).
+
+### p-Block Elements 
+>Oxidation state and trends in chemical reactivity of elements of groups 13-17; anomalous
+properties of boron, carbon, nitrogen, oxygen, and fluorine with respect to other elements in their
+respective groups.  
+> - Group 13: Reactivity towards acids, alkalis, and halogens; preparation, properties, and uses of
+borax, orthoboric acid, diborane, boron trifluoride, aluminium chloride, and alums; uses of boron
+and aluminium.
+> - Group 14: Reactivity towards water and halogen; allotropes of carbon and uses of carbon;
+preparation, properties, and uses of carbon monoxide, carbon dioxide, silicon dioxide, silicones,
+silicates, zeolites. 
+> - Group 15: Reactivity towards hydrogen, oxygen, and halogen; allotropes of phosphorous;
+preparation, properties, and uses of dinitrogen, ammonia, nitric acid, phosphine, phosphorus
+trichloride, phosphorus pentachloride; oxides of nitrogen and oxoacids of phosphorus. 
+> - Group 16: Reactivity towards hydrogen, oxygen, and halogen; simple oxides; allotropes of sulfur;
+preparation/manufacture, properties, and uses of dioxygen, ozone, sulfur dioxide, sulfuric acid;
+oxoacids of sulfur. 
 
 
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
