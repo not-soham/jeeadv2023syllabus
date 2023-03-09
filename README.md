@@ -276,6 +276,40 @@ reaction with RMgX, NaHSO3, HCN, alcohol, amine.
 Preparation of benzoic acid from alkylbenzenes; Reactions: reduction, halogenation, formation of
 esters, acid chlorides and amides. 
 
+### Amines
+>Preparation from nitro compounds, nitriles and amides; Reactions: Hoffmann bromamide
+degradation, Gabriel phthalimide synthesis; Reaction with nitrous acid, Azo coupling reaction of
+diazonium salts of aromatic amines; Sandmeyer and related reactions of diazonium salts;
+Carbylamine reaction, Hinsberg test, Alkylation and acylation reactions. 
 
+### Haloarenes
+>Reactions: Fittig, Wurtz-Fittig; Nucleophilic aromatic substitution in haloarenes and substituted
+haloarenes (excluding benzyne mechanism and cine substitution). 
+
+### Biomolecules
+> - *Carbohydrates*: Classification; Mono- and di-saccharides (glucose and sucrose); Oxidation;
+Reduction; Glycoside formation and hydrolysis of disaccharides (sucrose, maltose, lactose);
+Anomers
+> - *Proteins*: Amino acids; Peptide linkage; Structure of peptides (primary and secondary); Types of
+proteins (fibrous and globular). 
+> - *Nucleic acids*: Chemical composition and structure of DNA and RNA. 
+
+### Polymers
+>Types of polymerization (addition, condensation); Homo and copolymers; Natural rubber;
+Cellulose; Nylon; Teflon; Bakelite; PVC; Bio-degradable polymers; Applications of polymers. 
+
+### Chemistry in Everyday Life 
+>Drug-target interaction; Therapeutic action, and examples (excluding structures), of antacids,
+antihistamines, tranquilizers, analgesics, antimicrobials, and antifertility drugs; Artificial
+sweeteners (names only); Soaps, detergents, and cleansing action. 
+
+### Practical Organic Chemistry
+>Detection of elements (N, S, halogens); Detection and identification of the following functional
+groups: hydroxyl (alcoholic and phenolic), carbonyl (aldehyde and ketone), carboxyl, amino and
+nitro. 
+
+---
+
+## Mathematics
 
 [^1]: [Official website](https://jeeadv.ac.in/){:target="_blank"}
