@@ -3,12 +3,13 @@
   right: 2rem;
   bottom: 2rem;
   border-radius: 20%;
-  background: #ffffff;
+  background-color: transparent;
   padding: 0.5rem;
   border: none;
   cursor: pointer;
   opacity: 100%;
   transition: opacity 0.5s;
+  outline: none;
 }
 
 .back-to-top-icon {
